@@ -1,9 +1,10 @@
 body {
 	padding : 0;
-	margin : 65px 0 0 80px;
+	margin : 50px 0 0 50px;
 	font : 1em/1.5 'Georgia',serif;
 	background : #eee;
 	color : #444;
+        width: 1350px;
 }
 
 
@@ -14,7 +15,6 @@ h1 {
 	padding : 0;
 	color : #000;
 	border-bottom : 1px solid #ccc;
-	width : 1300px;
 	line-height : 1;
 }
 a {
